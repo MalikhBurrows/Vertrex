@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/5K2p5UEG",
+      "domain": "https://discord.gg/5K2p5UEG"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://discord.gg/5K2p5UEG",
+        "clientID": "797526291518717972",
+        "secret": "JHRuNnENsF8xQOuo7B5Blr0QUdc3iPxD"
+    }
+  }
